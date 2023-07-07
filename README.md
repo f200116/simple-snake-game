@@ -2,7 +2,7 @@
 基于python制作的简易的贪吃蛇小游戏
 
 ## 安装依赖
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## 运行
 `python run.py`
